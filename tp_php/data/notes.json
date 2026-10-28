@@ -1,0 +1,18 @@
+[
+    {
+        "nom": "sara",
+        "notes": {
+            "Info": 0,
+            "Math": 0.07
+        },
+        "moyenne": 0.035
+    },
+    {
+        "nom": "sara",
+        "notes": {
+            "Info": 1.06,
+            "Math": 0
+        },
+        "moyenne": 0.53
+    }
+]
